@@ -4,3 +4,23 @@ body{
     font-style: italic;
     color: azure;
 }
+
+table {
+    width: 80%;
+    margin:auto;
+}
+.cart label {
+    min-width: 140px;
+    margin-left: 4rem;
+}
+.card {
+    display: inline-block;
+    vertical-align: top;
+    min-height: 75vh;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 40vh;
+}
