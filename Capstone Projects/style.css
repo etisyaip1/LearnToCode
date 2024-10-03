@@ -9,6 +9,7 @@ table {
     width: 80%;
     margin:auto;
 }
+.icon-container,
 .cart label {
     min-width: 140px;
     margin-left: 4rem;
