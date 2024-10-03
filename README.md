@@ -18,7 +18,7 @@ This capstone project is focused on building an online shop for my hand sanitize
 
 3. **Register Page**:
    - **Sign-Up**: Users can register with their email, create a username, and set a password.
-   - **Survey**: Asks how the user heard about the company (Google, Word of Mouth, Social Media).
+   - **Survey**: Asks how the user heard about the company (Google, Word of Mouth, or Social Media)
    - **QR Code**: Offers a free gift (a video of a mask) for users who register, part of the presentation.
 
 4. **Login Page**:
@@ -28,7 +28,7 @@ This capstone project is focused on building an online shop for my hand sanitize
    - **Billing Information**: Displays the billing address and payment details.
    - **Cart**: Shows selected products and the total cost.
 
-## Key Feature
+## Standout Feature
 One standout feature of my project is the QR code on the registration page, which links to a video showing the mask that customers will receive as a free gift upon signing up.
 
 My capstone project combines the HTML and CSS functions that we've mastered so far and testing these key elements by building my website for health-conscious, luxurious hand sanitizers!
